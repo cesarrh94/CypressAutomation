@@ -1,0 +1,12 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "This repo is only to my practices with cypress on web ui automation testing and api testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
