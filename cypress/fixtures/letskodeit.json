@@ -1,0 +1,16 @@
+{
+  "test_case_1": {
+    "username": "test user",
+    "password": "test password"
+  },
+  "test_case_2": [
+    {
+      "search_course": "java",
+      "course_name": "Selenium WebDriver With java"
+    },
+    {
+      "search_course": "java",
+      "course_name": "Java Step By Step For Tester"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tc001": [
+    {
+      "search_course": "java",
+      "click_course": "Selenium WebDriver With java"
+    },
+    {
+      "search_course": "java",
+      "click_course": "Java Step By Step For Tester"
+    }
+  ]
+}
